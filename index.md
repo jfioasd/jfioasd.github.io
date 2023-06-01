@@ -23,3 +23,5 @@ The most effective strategy according to Dunlosky’s research is practice testi
 </details>
 
 [Word roots](roots.md)
+
+[Resolve Procrastination](procrastination/what.md)
