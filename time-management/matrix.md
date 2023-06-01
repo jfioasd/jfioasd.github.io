@@ -14,3 +14,17 @@ Using a grid like the priority matrix below can help you to organise your tasks 
 |:--:|:--:|:--:|
 |High|Do First| Do next (or schedule)|
 |Low|Do later (or delegate)|Don't do|
+
+To use the priority matrix, it is best to review your tasks on a daily basis. Each day, ask yourself:
+
+* Which of my tasks needs doing within the next 48 hours? (Those are the ‘Urgent’ tasks.)
+
+* Of the urgent tasks, which ones are more important?
+
+
+
+* Of the non-urgent tasks, which ones are more important?
+
+Again, it is a good idea to list them in order, rather than giving them an absolute distinction.
+
+
