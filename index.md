@@ -25,3 +25,5 @@ The most effective strategy according to Dunlosky’s research is practice testi
 [Word roots](roots.md)
 
 [Time Management Fundamentals](time-management/what.md)
+
+[Hard lessons in life](hard-lessons.md)
