@@ -24,4 +24,4 @@ The most effective strategy according to Dunlosky’s research is practice testi
 
 [Word roots](roots.md)
 
-[Resolve Procrastination](procrastination/what.md)
+[Time Management Fundamentals](time-management/what.md)
