@@ -5,3 +5,4 @@ It is when you convince yourself that there is "all the time in the world" to ge
 ## Reasons
 1. [Lack of Purpose](purpose.md)
 2. [Too much thinking, not enough action](thinking.md)
+3. [Lack of accountabiity](accountability.md)
