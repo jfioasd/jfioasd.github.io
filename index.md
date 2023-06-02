@@ -20,6 +20,8 @@ The most effective strategy according to Dunlosky’s research is practice testi
   <b>aaaaa!!!</b>
 </details>
 
+![Top 10 skills](jTIHAAN_zfBXE8uqiGcqCCo2JfFQ2w24SKLiFkSlf0I.jpg)
+
 [Word roots](roots.md)
 
 [Time Management Fundamentals](time-management/what.md)
