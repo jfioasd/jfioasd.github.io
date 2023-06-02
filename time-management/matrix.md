@@ -12,10 +12,10 @@ It enables you to work out what to do first, and what can be left either until l
 
 Using a grid like the priority matrix below can help you to organise your tasks into their appropriate categories:
 
-|Importance|High Urgency|Low Urgency|
+| |High Urgency|Low Urgency|
 |:--:|:--:|:--:|
-|High|Do First| Do next (or schedule)|
-|Low|Do later (or delegate)|Don't do|
+|High Importance|Do First| Do next (or schedule)|
+|Low Importance|Do later (or delegate)|Don't do|
 
 To use the priority matrix, it is best to review your tasks on a daily basis. Each day, ask yourself:
 
