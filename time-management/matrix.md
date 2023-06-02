@@ -8,6 +8,8 @@ This distinction between urgent and important is the key to prioritising your ti
 
 It enables you to work out what to do first, and what can be left either until later, or not done at all.
 
+---
+
 Using a grid like the priority matrix below can help you to organise your tasks into their appropriate categories:
 
 |Importance|High Urgency|Low Urgency|
