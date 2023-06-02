@@ -10,3 +10,9 @@ There are a number of ways in which you can improve your self-esteem.
 * **Challenge negative thinking patterns.** When you find yourself engaging in negative thinking, try countering those thoughts with more realistic and/or positive ones, or put them aside.
 * **Use positive self-talk.** Practice reciting positive affirmations to yourself.
 * **Practice self-compassion.** Practice forgiving yourself for past mistakes and move forward by accepting all parts of yourself.
+
+<details
+         <summary>An affirmation that may help build self-esteem:</summary>
+         “I am love, and I am loved.”
+         Visualizing Love may also help during meditation.
+</details>
