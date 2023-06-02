@@ -25,3 +25,5 @@ The most effective strategy according to Dunlosky’s research is practice testi
 [Time Management Fundamentals](time-management/what.md)
 
 [Hard lessons in life](hard-lessons.md)
+
+[How to improve self-esteem](self-esteem.md)
