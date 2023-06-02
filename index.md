@@ -1,9 +1,7 @@
 I read [this](https://senecalearning.com/en-GB/blog/top-10-most-effective-learning-strategies/) article and this inspired me to try to create an interactive course for myself using GitHub pages.
 
 I copied part of the article here.
-## 5. Self-explanation
 
-This strategy is used when students’ explain how new information relates to things they already know. Relating novel content to prior knowledge creates new connections and facilitates the development of schemes.
 ## 4. Elaborative interrogation
 
 This strategy involves asking and answering Why and How questions. That is, thinking about a subject in more depth and detail, which strengthens connections in the brain.
