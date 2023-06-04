@@ -3,9 +3,7 @@
   <b>aaaaa!!!</b>
 </details>
 
-![Top 10 skills](jTIHAAN_zfBXE8uqiGcqCCo2JfFQ2w24SKLiFkSlf0I.jpg)
-
-## Top 10 skills
+## [Top 10 skills](jTIHAAN_zfBXE8uqiGcqCCo2JfFQ2w24SKLiFkSlf0I.jpg)
 
 [Time Management Fundamentals](time-management/what.md)
 
