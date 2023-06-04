@@ -1,4 +1,4 @@
-According to WEF Future of Jobs 2023, the following 10 are the core skills in 2023:
+According to [WEF Future of Jobs 2023](https://www.weforum.org/reports/the-future-of-jobs-report-2023), the following 10 are the core skills in 2023:
 
 * Analytical thinking
 * Creative thinking
