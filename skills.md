@@ -23,3 +23,13 @@ Reskilling priorities:
 * Design and user experience
 * Motivation and self-awareness
 * Empathy and active listening
+
+Intersection between the two lists:
+* Analytical thinking
+* Creative thinking
+* Resilience, flexibility and agility
+* Motivation and self-awareness
+* Curiosity and lifelong learning
+* Technological literacy
+* Empathy and active listening
+* Leadership and social influence
