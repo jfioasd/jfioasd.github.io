@@ -29,6 +29,7 @@ To use the priority matrix, it is best to review your tasks on a daily basis. Ea
 
 Again, it is a good idea to list them in order, rather than giving them an absolute distinction.
 <details>
+  <summary>Questions</summary>
   
 ## Questions
 
