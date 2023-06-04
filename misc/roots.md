@@ -35,7 +35,7 @@
 * **voc**: "call"
 * **vol**: "will"
 
-Here is a list of common prefix definitions that can help you with SAT vocabulary:
+Here is a list of common prefix definitions:
 
 * **A-/An-**: "without"
 * **Ab-**: "away"
@@ -72,7 +72,7 @@ Here is a list of common prefix definitions that can help you with SAT vocabular
 * **Ultra-**: "beyond" or "on the far side of"
 * **Vice-**: "in place of"
 
-Here is a list of common suffix definitions that can help you with SAT vocabulary:
+Here is a list of common suffix definitions:
 
 * **-able**: "capable of"
 * **-ate**: "make" or "function"
