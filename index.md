@@ -16,6 +16,6 @@
 [How to improve self-esteem](self-esteem.md)
 
 ## Misc
-[Word roots](roots.md)
+[Word roots](misc/roots.md)
 
-[Hard lessons in life](hard-lessons.md)
+[Hard lessons in life](misc/hard-lessons.md)
