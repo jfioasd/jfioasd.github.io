@@ -28,9 +28,11 @@ To use the priority matrix, it is best to review your tasks on a daily basis. Ea
 * Of the non-urgent tasks, which ones are more important?
 
 Again, it is a good idea to list them in order, rather than giving them an absolute distinction.
-
+<details>
+  
 ## Questions
 
 1. Why do you need to tell the difference between 'urgent' and 'important'?
 2. How to organize your tasks using a priority matrix?
 3. How is a priority matrix different from a regular to-do list?
+</details>
