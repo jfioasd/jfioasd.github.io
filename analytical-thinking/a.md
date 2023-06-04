@@ -1,7 +1,7 @@
 Analytical thinking is the individual’s ability to observe and analyze information related to a problem and then solve it by using analytical skills, such as:
 * critical thinking
 * creativity
-* [data analysis](data-analysis.md)
+* data analysis
 * research
 * communication
 
