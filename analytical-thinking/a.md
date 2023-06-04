@@ -2,6 +2,7 @@ Analytical thinking is the individual’s ability to observe and analyze informa
 * critical thinking
 * creativity
 * data analysis
+* research
 * communication
 
 5 main types of analytical thinking:
