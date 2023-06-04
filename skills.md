@@ -24,6 +24,8 @@ Reskilling priorities:
 * Motivation and self-awareness
 * Empathy and active listening
 
+---
+
 Intersection between the two lists:
 * Analytical thinking
 * Creative thinking
