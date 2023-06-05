@@ -1,7 +1,3 @@
-<details>
-  <summary>Tag test</summary>
-  ...
-</details>
 
 ## [Top 10 skills](skills.md)
 
