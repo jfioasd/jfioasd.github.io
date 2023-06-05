@@ -13,3 +13,5 @@ There are 4 points in that article:
   * It also has a significant benefit on emotional health and mental health.
   * Even a walk in the park would have a similar benefit.
 * **Engaging with different-minded people**.
+  * Engaging with different people challenges your stereotypes and forces your brain to work harder.
+  * Different opinions allow us to see more possibilities, and make better decisions.
