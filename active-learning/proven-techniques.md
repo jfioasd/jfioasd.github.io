@@ -1,6 +1,5 @@
-I read [this](https://senecalearning.com/en-GB/blog/top-10-most-effective-learning-strategies/) article and this inspired me to try to create an interactive course for myself using GitHub pages.
 
-I copied part of the article here.
+I copied part of [the article](https://senecalearning.com/en-GB/blog/top-10-most-effective-learning-strategies/) here.
 
 ## 4. Elaborative interrogation
 
