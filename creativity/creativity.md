@@ -7,7 +7,7 @@ There are 4 points in that article:
   * Besides, it is an exercise that engages your entire brain. (And creativity requires engaging both sides of your brain.)
 * **Exercise**.
   * Exercise is a great tool to release stress and pain.
-  * Through exercise, you will have a calmer and more accepting state of mind that makes it easier to generate creative thoughts.
+  * Through exercise, you will have a calmer state of mind that makes it easier to generate creative thoughts.
 * **Engaging with nature**.
   * Engaging with nature can elevate our moods and spark imagination.
   * It also has a significant benefit on emotional health and mental health.
