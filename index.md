@@ -1,6 +1,6 @@
 <details>
   <summary>Tag test</summary>
-  <b>Html is tedious to write</b>
+  ...
 </details>
 
 ## [Top 10 skills](skills.md)
