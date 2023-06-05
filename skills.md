@@ -1,4 +1,4 @@
-According to [WEF Future of Jobs Report 2023](https://www.weforum.org/reports/the-future-of-jobs-report-2023), the following 10 are the intersection of core skills and reskilling priorities in 2023:
+According to [WEF Future of Jobs Report 2023](https://www.weforum.org/reports/the-future-of-jobs-report-2023), the following 8 are the intersection of core skills and reskilling priorities in 2023:
 
 
 * Analytical thinking
