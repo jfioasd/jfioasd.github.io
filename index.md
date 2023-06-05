@@ -5,6 +5,8 @@
 
 [Improve analytical thinking](analytical-thinking/a.md)
 
+[How to improve creativity](creativity/creativity.md)
+
 [Proven techniques of active learning](active-learning/proven-techniques.md)
 
 [How to improve self-esteem](self-esteem.md)
