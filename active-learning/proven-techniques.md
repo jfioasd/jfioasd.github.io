@@ -1,7 +1,7 @@
 
 I copied part of [the article](https://senecalearning.com/en-GB/blog/top-10-most-effective-learning-strategies/) here.
 
-## 4. Elaborative interrogation
+## 4. [Elaborative interrogation](e-i.md)
 
 This strategy involves asking and answering Why and How questions. That is, thinking about a subject in more depth and detail, which strengthens connections in the brain.
 ## 3. Interleaved practice
