@@ -11,3 +11,6 @@ While you're taking notes in class, write a "Q" in the margin beside material th
 Siebert and Karr suggest that as you read your textbooks and lecture notes, jot down questions that occur to you. You’ll be creating your own practice test as you study. 
 
 When you’re ready, take the test without checking your notes or books. Make the practice as real as possible, including giving partial answers when you aren’t sure and limiting the time allowed. 
+
+[elaborative interrogation](e-i.md) can also be used under this structure.
+
