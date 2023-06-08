@@ -4,7 +4,7 @@ In their book, "The Adult Student’s Guide to Survival & Success," Al Siebert a
 
 > Imagine that you are the instructor and have to write some questions that will test the class on the material covered.
 
-How to create a practice test? One way:
+How to create a practice test?
 
 While you're taking notes in class, write a "Q" in the margin beside material that would make a good test question.
 
