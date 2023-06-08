@@ -10,6 +10,6 @@ Interleaving is the strategy of mixing up the order of questions across differen
 ## 2. Distributed practice
 
 Distributed practice is basically the opposite of cramming. Research consistently shows that studying small chunks of content spread out over time is more effective than studying long blocks of the same topic only once. To use it successfully, students should start preparing way ahead of their exam dates and organise their time with a calendar. In the classroom, teachers should review not only the previous lesson but also lessons from much earlier.
-## 1. Practice testing
+## [1. Practice testing](p-t.md)
 
 The most effective strategy according to Dunlosky’s research is practice testing. It consists of studying and reviewing by answering questions and actively bringing information back to mind. When this is done, information is reconsolidated, new connections are created, and memory and understanding are strengthened. When reviewing topics in class, teachers should always include low-stake quizzes. These can be of various types, as long as they demand active retrieval. Immediate feedback should be provided.
