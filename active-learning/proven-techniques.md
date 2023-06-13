@@ -1,3 +1,4 @@
+[teaching others](t.md)
 
 Based on [this article](https://senecalearning.com/en-GB/blog/top-10-most-effective-learning-strategies/).
 
