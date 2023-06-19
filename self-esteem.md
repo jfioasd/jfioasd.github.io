@@ -1,4 +1,4 @@
-Self-esteem is what you believe about your worth and abilities, as well as how you feel about yourself emotionally.
+Self-esteem is your confidence of your worth and abilities, as well as how you feel about yourself emotionally.
 
 Low self-esteem often starts in childhood, perhaps with a belief that you were unable to live up to expectations. However, it can also be the result of adult experiences such as a difficult relationship, either personal or at work.
 
