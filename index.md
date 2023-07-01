@@ -16,4 +16,4 @@
 
 [Hard lessons in life](misc/hard-lessons.md)
 
-[Protect your eyes](tldr.md)
+[Protect your eyes](eyes/tldr.md)
