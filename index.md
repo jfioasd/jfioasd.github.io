@@ -15,3 +15,5 @@
 [Word roots](misc/roots.md)
 
 [Hard lessons in life](misc/hard-lessons.md)
+
+[Protect your eyes](tldr.md)
